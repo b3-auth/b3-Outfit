@@ -11,3 +11,8 @@ Labs By User On Telegram:
 - @hyaku1063 (check connect)
 - @MoonCatBg (Offline)
 - @Bintestfun1 (Offline)
+
+# Link File ISO
+
+- win server 2012
+- https://computernewb.com/isos/windows/Windows%20Server%202012%20R2.iso
