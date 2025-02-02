@@ -1,4 +1,4 @@
-name: NAMKUNBG BOT TG SETUP
+name: NAMKUNBG BOT TG GPU
 
 on: 
   workflow_dispatch:
